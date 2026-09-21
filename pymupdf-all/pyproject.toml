@@ -1,4 +1,4 @@
 [build-system]
     requires = ['pipcl']
-    build-backend = "setup"
-    backend-path = ["."]
+    build-backend = 'setup'
+    backend-path = ['.']
